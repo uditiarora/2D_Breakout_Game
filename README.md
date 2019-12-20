@@ -1,5 +1,6 @@
-Code learnt from a tutotrial
+# 2DBreakoutGame
+A fun game built in JavaScript while following a tutorial.
 
-
-2D Breakout Game
+## Demo 
+![demo](./2DBreakoutGame.wmv)
 
