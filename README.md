@@ -2,5 +2,5 @@
 A fun game built in JavaScript while following a tutorial.
 
 ## Demo 
-![demo](./2DBreakoutGame.wmv)
+![demo](2DBreakoutGame.wmv)
 
